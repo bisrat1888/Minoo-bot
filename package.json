@@ -1,0 +1,13 @@
+{
+  "name": "minoo-agent-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Minoo commission agents to submit orders",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "telegraf": "^4.16.3"
+  }
+}
